@@ -346,4 +346,4 @@ plt.show()
 
 Crime in LA is widespread, with assaults and theft-related crimes being predominant. Certain areas experience higher crime rates, indicating potential hotspots for law enforcement focus. The high number of unresolved cases suggests a need for improved investigative measures. Demographic data shows that crime affects individuals of various ages and ethnic backgrounds, emphasizing the importance of targeted prevention strategies.
 
-If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+If you have any questions or feedback, feel free to get in touch!
