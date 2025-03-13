@@ -334,16 +334,16 @@ plt.show()
 ![output](https://github.com/user-attachments/assets/5eb15c98-8ee2-4522-bc4a-fc76b3cbdd67)
 
 ## Findings
-
-- The dataset contains 733,935 recorded crimes.
+- 50.34% of victims were male, 48.21% were Female and 1.45% is unknown.
 - The most common crime types include Battery - Simple Assault, Burglary from Vehicle, Theft of Identity, Assault with Deadly Weapon, and Aggravated Assault.
 - Crime distribution is highest in areas such as Central, Southwest, 77th Street, Pacific, and Hollywood.
 - Most cases remain under investigation or have unknown resolutions.
-- The average age of victims is approximately 39.5 years.
+- The average age of victims is approximately 39 years.
 - Crime affects victims of diverse ethnicities, with the most common being Hispanic/Latin/Mexican, White, Black, Other, and Other Asian.
+- Crimes had a peak in 2022, but have been declining in the next years by almost half, with 2024 having the lowest amount of crimes since 2020.
 
 ## Conclusion
 
-Crime in LA is widespread, with assaults and theft-related crimes being predominant. Certain areas experience higher crime rates, indicating potential hotspots for law enforcement focus. The high number of unresolved cases suggests a need for improved investigative measures. Demographic data shows that crime affects individuals of various ages and ethnic backgrounds, emphasizing the importance of targeted prevention strategies.
+Crime in LA is widespread, with assaults and theft-related crimes being predominant. Certain areas experience higher crime rates, indicating potential hotspots for law enforcement focus. The high number of unresolved cases suggests a need for improved investigative measures. Demographic data shows that crime affects individuals of various ages and ethnic backgrounds, emphasizing the importance of targeted prevention strategies, tha being said, the amount of crime has been declining over the years, which is a good sign.
 
 If you have any questions or feedback, feel free to get in touch!
