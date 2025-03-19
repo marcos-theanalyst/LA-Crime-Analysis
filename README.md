@@ -333,15 +333,104 @@ plt.show()
 ```
 ![output](https://github.com/user-attachments/assets/5eb15c98-8ee2-4522-bc4a-fc76b3cbdd67)
 
-## Findings
-- 50.34% of victims were male, 48.21% were Female and 1.45% is unknown.
-- The most common crime types include Battery - Simple Assault, Burglary from Vehicle, Theft of Identity, Assault with Deadly Weapon, and Aggravated Assault.
-- Crime distribution is highest in areas such as Central, Southwest, 77th Street, Pacific, and Hollywood.
-- Most cases remain under investigation or have unknown resolutions.
-- The average age of victims is approximately 39 years.
-- Crime affects victims of diverse ethnicities, with the most common being Hispanic/Latin/Mexican, White, Black, Other, and Other Asian.
-- Crimes had a peak in 2022, but have been declining in the next years by almost half, with 2024 having the lowest amount of crimes since 2020.
+## Report
 
+## Top 10 Crimes
+```
+BATTERY - SIMPLE ASSAULT                                    73,429
+BURGLARY FROM VEHICLE                                       61,449
+THEFT OF IDENTITY                                           61,280
+ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT              51,406
+THEFT PLAIN - PETTY ($950 & UNDER)                          46,783
+VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)     46,247
+INTIMATE PARTNER - SIMPLE ASSAULT                           45,981
+BURGLARY                                                    39,711
+THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER)         35,073
+THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD    27,615
+```
+
+## Top 10 Areas with Highest Crime
+```
+Central        51887
+Southwest      47679
+77th Street    46051
+Pacific        42118
+Hollywood      39003
+Southeast      36376
+N Hollywood    36060
+Olympic        36007
+Wilshire       35623
+Topanga        34311
+```
+
+## Victim Age Statistics
+```
+count    732958.000000
+mean         39.503826
+std          15.570000
+min           2.000000
+25%          28.000000
+50%          37.000000
+75%          50.000000
+max          99.000000
+```
+
+## Most Used Weapons in Crimes
+```
+Unknown             43,3235
+Other Weapons       230,151
+Firearms             34,801
+Bladed Weapons       19,475
+Blunt Objects        11,567
+Chemical Weapons      3,674
+Explosives               55
+```
+
+## Case Resolution Status
+```
+Invest Cont     56,3361
+Adult Other      99,604
+Adult Arrest     65,988
+Juv Arrest        2,468
+Juv Other         1,532
+UNK                   5
+```
+
+## Yearly Crime Trend
+```
+Year
+2020    150,530
+2021    158,225
+2022    179,166
+2023    168,684
+2024     76,353
+```
+
+## Monthly Crime Trend
+```
+Month
+April        61,338
+August       60,458
+December     56,968
+February     63,819
+January      69,010
+July         60,914
+June         58,956
+March        65,040
+May          60,156
+November     56,872
+October      60,845
+September    58,582
+```
+
+## Quarterly Crime Trend
+```
+Quarter
+1    197,869
+2    180,450
+3    179,954
+4    174,685
+```
 ## Conclusion
 
 Crime in LA is widespread, with assaults and theft-related crimes being predominant. Certain areas experience higher crime rates, indicating potential hotspots for law enforcement focus. The high number of unresolved cases suggests a need for improved investigative measures. Demographic data shows that crime affects individuals of various ages and ethnic backgrounds, emphasizing the importance of targeted prevention strategies, tha being said, the amount of crime has been declining over the years, which is a good sign.
