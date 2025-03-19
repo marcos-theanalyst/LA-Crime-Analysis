@@ -1,4 +1,4 @@
-# Los Angeles Crime Trends Analysis
+# Los Angeles Crime Trends Analysis (2020-2024)
 
 ## Project Overview
 
