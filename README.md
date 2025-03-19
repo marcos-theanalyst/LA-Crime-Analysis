@@ -333,7 +333,7 @@ plt.show()
 ```
 ![output](https://github.com/user-attachments/assets/5eb15c98-8ee2-4522-bc4a-fc76b3cbdd67)
 
-## Report
+# Findings Report
 
 ## Top 10 Crimes
 ```
